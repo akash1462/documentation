@@ -29,4 +29,6 @@ https://git03.iiht.tech/estockmarket/zuul-gateway
 /api/v1.0/market/query/user/otpGenerate
 /api/v1.0/market/query/user/otpValidate
 
+zookeeper-server-start.bat C:\kafka2.12-2.4.1\config\zookeeper.properties
 
+kafka-server-start.bat C:\Kafka_2.12-2.4.1\config\server.properties
